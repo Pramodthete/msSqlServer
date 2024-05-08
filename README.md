@@ -1,0 +1,2 @@
+# msSqlServer
+Queries
