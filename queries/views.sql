@@ -4,7 +4,6 @@ use pramoddb;
 
 -- View
 
-
 CREATE VIEW emp_view AS
 SELECT EmpId, EmpName, Salary
 FROM tblEmployee

@@ -83,4 +83,4 @@ WHERE row_num = 3;
 
 
 ALTER TABLE tblEmployee
-ALTER column mysal
+ALTER column mysal int; -- change data type
